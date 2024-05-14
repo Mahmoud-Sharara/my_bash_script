@@ -1,0 +1,464 @@
+    1  sudo apt install openssh-server
+    2  apt update
+    3  ifocnfig
+    4  apt install net-tools
+    5  sudo -i
+    6  sudo apt install net-tools
+    7  sudo vi /etc/network/interfaces
+    8  ip add
+    9  sudo ip link set ens192 up
+   10  sudo systemctl restart networking
+   11  sudo apt install networking
+   12  sudo apt-get update
+   13  mkdir bash_script
+   14  ll
+   15  cd bash_script/
+   16  pwd
+   17  ./lol.sh
+   18  chmod +x lol.sh
+   19  ./lol.sh
+   20  ll
+   21  ./lol.sh
+   22  ps
+   23  ./lol.sh
+   24  vi lo.hs
+   25  vi lolo.sh
+   26  ll
+   27  vi lol.sh
+   28  ./lol.sh
+   29  l
+   30  rm -r lol.sh 
+   31  ll
+   32  vi lolo.sh
+   33  ll
+   34  rm -r .lolo.sh.swp 
+   35  ll
+   36  chmod +x lolo.sh
+   37  ll
+   38  chmod 770 lolo.sh 
+   39  ll
+   40  chmod ago=r lolo.sh
+   41  ll
+   42  chmod ag=rwx lolo.sh
+   43  ls
+   44  ll
+   45  ls
+   46  ./lolo.sh 
+   47  vi lolo.sh 
+   48  ./lolo.sh 
+   49  vi lolo.sh 
+   50  ./lolo.sh 
+   51  vi lolo.sh 
+   52  ./lolo.sh 
+   53  vi lolo.sh 
+   54  ./lolo.sh 
+   55  vi lolo.sh 
+   56  ./lolo.sh 
+   57  vi lolo.sh 
+   58  ./lolo.sh 
+   59  vi lolo.sh 
+   60  ./lolo.sh 
+   61  vi lolo.sh 
+   62  ./lolo.sh 
+   63  vi lolo.sh 
+   64  ./lolo.sh 
+   65  vi lolo.sh 
+   66  ./lolo.sh 
+   67  ll
+   68  mkdir ansibal
+   69  ll
+   70  cd ansible
+   71  cd ansibal/\
+   72  cd ansibal/
+   73  $$sudo apt-add-repository ppa:ansible/ansible
+   74  sudo apt-add-repository ppa:ansible/ansible
+   75  sudo apt update
+   76  sudo apt install ansible
+   77  apt install git
+   78  sudo apt install git
+   79  sudo apt install docker
+   80  vi inventoury.txt
+   81  cp inventoury.txt inventory.txt
+   82  ll
+   83  rm inventoury.txt 
+   84  ll
+   85  vi inventory.txt 
+   86  logout
+   87  cd bash_script/
+   88  cd ansibal/
+   89  ll
+   90  rm -r .inventory.txt.swp .inventory.txt.swo
+   91  ls
+   92  ll
+   93  vi inventory.txt 
+   94  ll
+   95  vi inventory.txt 
+   96  ll
+   97  nano inventory.txt 
+   98  ll
+   99  rm -r .i`
+  100  rm -r .inventory.txt.swp 
+  101  ll
+  102  vim inventory.txt 
+  103  apt install vim
+  104  sudo apt install vim
+  105  vim inventory.txt 
+  106  nano inventory.txt 
+  107  ll
+  108  vim inventory.txt 
+  109  ifconfig
+  110  sudo apt install openssh-server
+  111  sudo apt install openssh-client
+  112  sudo apt install openssh
+  113  sudo apt install ssh
+  114  sudo apt update
+  115  xdotool type "Hello, world!"
+  116  sudo apt install xdotool
+  117  cd bash_script
+  118  cd
+  119  cd bash_script/
+  120  cd ansibal/
+  121  ansible target2 -m ping -i inventory
+  122  ssh vim2@192.168.1.12
+  123  ssh vm2@192.168.1.12
+  124  sudo apt-get install lscolors
+  125  dircolors --print-database > ~/.dircolors
+  126  sudo apt-get install lolcat
+  127  echo "Hello, world!" | lolcat
+  128  sudo apt-get install ccze
+  129  tail -f /var/log/syslog | ccze
+  130  cd
+  131  vim frist_script.sh
+  132  chmod +x frist_script.sh
+  133  touch frist_script.sh
+  134  chmod +x frist_script.sh
+  135  ll
+  136  pwd
+  137  mv -r frist_script.sh /vm1/bash_script
+  138  mv frist_script.sh /vm1/bash_script
+  139  vm1/bash_script
+  140  ll
+  141  cd
+  142  l
+  143  mv frist_script.sh bash_script/
+  144  l
+  145  cd bash_script/
+  146  l
+  147  ./frist_script.sh 
+  148  sudo apt install python3-pip -y 
+  149  pip install bash_kernel
+  150  pip install bash_kernel --break-system-packages
+  151  python3 -m bash_kernel.install
+  152  touch jup_script.ipynb
+  153  sudo -S apt install -y python3-pip < ~/passwprd
+  154  sudo -S apt install -y python3-pip < ~/1234
+  155  pip install bash_kernel --break-system-packages
+  156  pip install bash_kernel -y --break-system-packages
+  157  python3 -m bash_kernel.install
+  158  -v docker
+  159  dockre
+  160  -v curl
+  161  vim docker_check.sh
+  162  chmod +x docker_check.sh 
+  163  apt install docker 
+  164  sudo apt install docker 
+  165  sudo apt install curl
+  166  docker stats
+  167  sudo apt install docker
+  168  git
+  169  sudo apt update
+  170  sudo apt install git
+  171  git config --global user.name "Your Name"
+  172  git config --global user.email "your.email@example.com"
+  173  git config --global user.name "mahmoud sharara"
+  174  git config --global user.email "mahmoodshrara@gmail.com"
+  175  git clone https://github.com/sharara99/my_bash_script.git
+  176  cd my_bash_script
+  177  git add docker_check.sh
+  178  git commit -m "Add docker_check.sh"
+  179  git push origin main
+  180  sudo apt update
+  181  sudo apt install git
+  182  git config --global user.name "mahmoud sharara"
+  183  git config --global user.email "mahmoodshrara@gmail.com"
+  184  git clone https://github.com/sharara99/my_bash_script.git
+  185  cd my_bash_script
+  186  git add docker_check.sh
+  187  cd
+  188  ll
+  189  cd bash_script/
+  190  git add docker_check.sh
+  191  cd
+  192  git clone https://github.com/sharara99/my_bash_script.git
+  193  cd my_bash_script
+  194  vim docker_check.sh
+  195  chmod +x docker_check.sh 
+  196  git add docker_check.sh
+  197  git commit -m "docker_script.sh"
+  198  git push origin master
+  199  git push origin main
+  200  cd
+  201  ll
+  202  apt install git
+  203  sudo apt install git
+  204  mkdir my_bash_script
+  205  ll
+  206  ll -d
+  207  ls
+  208  cd my_bash_script/
+  209  cd
+  210  cd my_bash_script/
+  211  ls
+  212  git config --global user.name "Mahmoud Sharara"
+  213  git config --global user.email "mahmoodshrara@gmail.com"
+  214  git config --list
+  215  cat docker_check.sh 
+  216  git init
+  217  ls -al
+  218  cd .git
+  219  ls
+  220  cd objects/
+  221  ls -al
+  222  git status
+  223  cd ..
+  224  cd
+  225  git status
+  226  cd my_bash_script/
+  227  git status
+  228  git add docker_check.sh 
+  229  git commit 
+  230  ll
+  231  git init
+  232  la
+  233  git status
+  234  git add docker_check.sh 
+  235  git status
+  236  git commit docker_check.sh 
+  237  git commit hello.txt 
+  238  git push
+  239  ls
+  240  https://github.com/sharara99/my_bash_script.git
+  241  cd
+  242  https://github.com/sharara99/my_bash_script.git
+  243  cd my_bash_script/
+  244  git clone https://github.com/sharara99/my_bash_script.git
+  245  dri
+  246  ls
+  247  cp docker_check.sh my_bash_script/
+  248  git status
+  249  git add my_bash_script/
+  250  git commit 
+  251  git push
+  252  git status
+  253  git add my_bash_script/
+  254  git status
+  255  cd my_bash_script/
+  256  ls
+  257  git stutes
+  258  git status
+  259  git add *
+  260  git status
+  261  git commit -m "my docker file"
+  262  git status
+  263  git branch
+  264  git push
+  265  git remot -v
+  266  git remote -v
+  267  git push orignin master
+  268  git push origin master
+  269  cd
+  270  ls home/vm2/
+  271  ls
+  272  rm -r bash_script/
+  273  ls
+  274  cd my_bash_script/
+  275  ls
+  276  rm hello.txt my_bash_script/
+  277  rm -r  hello.txt my_bash_script/
+  278  y
+  279  ls
+  280  git init
+  281  ls
+  282  ll
+  283  git status
+  284  rm -r hello.txt
+  285  la
+  286  git add
+  287  git add *
+  288  ls
+  289  git status
+  290  git commit
+  291  git commit -m "my commit"
+  292  git status
+  293  git commit -a
+  294  git status
+  295  git branch
+  296  git remote -v
+  297  git push origin main 
+  298  cd
+  299  rm -r my_bash_script/
+  300  yy
+  301  ls
+  302  mkdir my_bash_script
+  303  vim docker_script.sh
+  304  sudo apt insatll git
+  305  sudo apt install git
+  306  git config --global user.name "Mahmoud Sharara"
+  307  git config --global user.email "mahmoodshrara@gmail.com"
+  308  git config --list
+  309  cd my_bash_script/
+  310  ls
+  311  ls -a
+  312  cd
+  313  ls
+  314  mv -r docker_script.sh my_bash_script/
+  315  mv docker_script.sh my_bash_script/
+  316  ls
+  317  cd my_bash_script/
+  318  ls
+  319  git init
+  320  ls -al
+  321  mv docker_script.sh docker_check.sh
+  322  ls
+  323  git ststus
+  324  git status
+  325  git ls-files
+  326  ls
+  327  git add docker_check.sh 
+  328  git status
+  329  git ls-files
+  330  git ls-files -s
+  331  git commit -m "My Frist Commit"
+  332  git status
+  333  git log
+  334  git status -s
+  335  git clone https://github.com/sharara99/my_bash_script
+  336  ls
+  337  rm -r my_bash_script/
+  338  mv docker_check.sh /
+  339  pwd
+  340  mv docker_check.sh /home/vm1
+  341  ls
+  342  cd
+  343  rm my_bash_script/
+  344  rm -r my_bash_script/
+  345  ls
+  346  git clone
+  347  git clone https://github.com/sharara99/my_bash_script
+  348  cd my_bash_script/
+  349  git remote 
+  350  git remote -v
+  351  cd
+  352  mv docker_check.sh  my_bash_script/
+  353  ls
+  354  cd
+  355  git remote add pb https://github.com/sharara99/my_bash_script
+  356* git remote add pb https://github.com/sharara99/my_bash_script.g
+  357  git push origin master
+  358  cd my_bash_script/
+  359  git push origin master
+  360  git branch 
+  361  git add .
+  362  git commit -m "frist commit"
+  363  git push origin master
+  364  git push origin main
+  365  git push --set-upstream  origin main
+  366  git pu https://sharara99:gi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@fithub.com/sharara99/my_bash_script.git
+  367  sudo apt-get install git-credential-manager
+  368  git config --global credential.helper cache
+  369  git push origin main
+  370  ls -la
+  371  cat README.md 
+  372  git add .
+  373  git commit -m "my comit"
+  374  git status
+  375  git remote add origin https://github/sharara99/my_bash_script.git
+  376  git branch -M main
+  377  git push -u origin main
+  378  ls -a
+  379  ll
+  380  chmod 777 docker_check.sh 
+  381  git add .
+  382  git commit -m "my comit"
+  383  git status
+  384  git remote add origin https://github/sharara99/my_bash_script.git
+  385  git push -u origin main
+  386  git remote set-url origin https://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@github.com/sharara99/my_bash_script
+  387  git push -u origin main
+  388  git oush
+  389  git push
+  390  git remote set-url origin https://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@github.com/sharara99/my_bash_script/
+  391  git push
+  392  $ ssh -T git@github.com
+  393  git remote -v
+  394  git remote set-url origin git@github.com:YOURUSERNAME/reponame.git
+  395  git remote set-url origin git@github.com:sharara99/my_bash_script.git
+  396  git push
+  397  cd
+  398  rm -r my_bash_script/
+  399  ls
+  400  git clone https://github.com/sharara99/my_bash_scripts.git
+  401  cd my_bash_scripts/
+  402  vim docker_check.sh
+  403  chmod 777 docker_check.sh 
+  404  ls
+  405  git status
+  406  git add .
+  407  git status
+  408  git commit -m "my commit in docker file"
+  409  git branch 
+  410  git push origin main
+  411  git push https://<sharara99>:<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>@github.com/sharara99/my_bash_scripts.git
+  412  ssh-keygen -t ed25519 -C "mahmoodshrara@gmail.com"
+  413  cat ~/.ssh/id_ed25519.pub
+  414  git remote set-url origin git@github.com:sharara99/my_bash_scripts.git
+  415  git push origin main
+  416  echp "Hello" > hello.txt
+  417  echo "Hello" > hello.txt
+  418  git status
+  419  git add
+  420  git add .
+  421* git 
+  422  git commit -m "hello file" 
+  423  git branch 
+  424  git push origin main
+  425  git remote set-url origin git@github.com:sharara99/my_bash_scripts.git
+  426  git push origin main
+  427  git status
+  428  git push
+  429  git push origin main
+  430  git branch 
+  431  git push origin main
+  432  git push -u origin main
+  433  cat history | grep bd
+  434  ssh-keygen -t ed25519 -C "mahmoodshrara@gmail.com"
+  435  cat ~/.ssh/id_ed25519.pub
+  436  git remote set-url origin git@github.com:sharara99/my_bash_script.git
+  437  git push origin main
+  438  git status
+  439  rm -r ssh_key.sh 
+  440  ls
+  441  git status
+  442  git push 
+  443  git fetch origin
+  444  git merge origin/main
+  445  git push origin main
+  446  getent passwd
+  447  ps ls
+  448  ps aux
+  449  ll
+  450  rm -r hello.txt 
+  451  git sharara origin
+  452  git fetch origin
+  453  git merge origin/main
+  454  git push origin main
+  455  git status
+  456  git add
+  457  git add 
+  458  git add .
+  459  git status
+  460  git commit -m "my delete hellow file "
+  461  git fetch origin
+  462  git push origin main
+  463  history
+  464  history > action.txt
