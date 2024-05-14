@@ -1,4 +1,6 @@
 #!/bin/bash
+#code from Ahmed Sami - Big Data بالعربي - Linux for Data Engineers | البطريق العضاض يعظ
+
 
 # Check if Docker is installed
 if ! command -v docker &> /dev/null; then
